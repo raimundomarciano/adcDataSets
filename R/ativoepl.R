@@ -1,0 +1,22 @@
+#' Ativo e Patrimonio Líquido de companhias listadas na B3
+#'
+#' Lista obtida no portal de dados abertos da Comissão de Valores Mobiliários.
+#'
+#' @format Um data frame com 12 variáveis:
+#' \describe{
+#' \item{CNPJ_CIA}{CNPJ da empresa}
+#' \item{DT_REFER}{Data de referencia do demonstrativo}
+#' \item{DENOM_CIA}{Nome da empresa}
+#' \item{CD_CVM}{Codigo CVM}
+#' \item{GRUPO_DFP}{Consolidado ou individual, e o grupo a que pertence a conta}
+#' \item{MOEDA}{Moeda de apresentacao das demonstracoes}
+#' \item{ESCALA_MOEDA}{Escala da moeda}
+#' \item{ORDEM_EXERC}{Ordem do exercicio (ultimo ou penultimo)}
+#' \item{DT_FIM_EXERC}{Data de fim do exercicio social}
+#' \item{CD_CONTA}{Codigo da conta}
+#' \item{DS_CONTA}{Descricao da conta}
+#' \item{VL_CONTA}{Valor da conta}
+#' }
+#' @source AdaptaCao do arquivo disponivel Portal de Dados Abertos da CVM
+#' \url{https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp}
+"ativoepl"
