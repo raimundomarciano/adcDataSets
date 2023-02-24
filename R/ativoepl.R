@@ -17,6 +17,6 @@
 #' \item{DS_CONTA}{Descricao da conta}
 #' \item{VL_CONTA}{Valor da conta}
 #' }
-#' @source AdaptaCao do arquivo disponivel Portal de Dados Abertos da CVM
+#' @source Adaptacao do arquivo disponivel Portal de Dados Abertos da CVM
 #' \url{https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp}
 "ativoepl"

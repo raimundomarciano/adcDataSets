@@ -4,9 +4,9 @@ Title: ADC 2022 - Material de Apoio
 Version: 0.1.0
 Author: Raimundo Marciano de Freitas Neto
 Maintainer: Raimundo Marciano de Freitas Neto <raimundo.freitas@ufrn.br>
-Description: Material de apoio da disciplina Análise de Dados Contábeis 2022.2.
+Description: Material de apoio da disciplina Análise de Dados Contábeis 2023.1.
     Inclui datasets e scripts.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.3

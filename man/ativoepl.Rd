@@ -22,7 +22,7 @@ Um data frame com 12 variáveis:
 }
 }
 \source{
-AdaptaCao do arquivo disponivel Portal de Dados Abertos da CVM
+Adaptacao do arquivo disponivel Portal de Dados Abertos da CVM
 \url{https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp}
 }
 \usage{
