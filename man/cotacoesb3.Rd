@@ -10,7 +10,6 @@ Um data frame com 8 variáveis:
 \item{dtPregao}{O dia do pregao}
 \item{codBDI}{Codigo de BDI}
 \item{codNegociacao}{Nome da empresa}
-\item{tpMercado}{Mercado de negociacao do papel}
 \item{nomeResumido}{Nome Resumido da empresa}
 \item{especifPapel}{Tipo do papel}
 \item{precoUltimo}{Cotacao de fechamento}
